@@ -1,0 +1,11 @@
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\bin\Debug\TestUnits.dll
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\bin\Debug\TestUnits.pdb
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\bin\Debug\nunit.framework.dll
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\bin\Debug\Rhino.Mocks.dll
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\bin\Debug\SuperCalculator.dll
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\bin\Debug\SuperCalculator.pdb
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\bin\Debug\nunit.framework.xml
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\bin\Debug\Rhino.Mocks.xml
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\obj\Debug\TestUnits.dll
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\obj\Debug\TestUnits.pdb

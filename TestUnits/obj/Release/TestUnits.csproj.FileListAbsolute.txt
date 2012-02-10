@@ -1,0 +1,18 @@
+C:\Users\pbazan\AppData\Local\Temporary Projects\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\pbazan\AppData\Local\Temporary Projects\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\pbazan\AppData\Local\Temporary Projects\ClassLibrary1\bin\Release\nunit.framework.dll
+C:\Users\pbazan\AppData\Local\Temporary Projects\ClassLibrary1\bin\Release\nunit.framework.xml
+C:\Users\pbazan\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pbazan\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\pbazan\AppData\Local\Temporary Projects\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\pbazan\documents\visual studio 2010\Projects\TestUnits\TestUnits\bin\Release\TestUnits.dll
+C:\Users\pbazan\documents\visual studio 2010\Projects\TestUnits\TestUnits\bin\Release\TestUnits.pdb
+C:\Users\pbazan\documents\visual studio 2010\Projects\TestUnits\TestUnits\bin\Release\nunit.framework.dll
+C:\Users\pbazan\documents\visual studio 2010\Projects\TestUnits\TestUnits\bin\Release\nunit.framework.xml
+C:\Users\pbazan\documents\visual studio 2010\Projects\TestUnits\TestUnits\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pbazan\documents\visual studio 2010\Projects\TestUnits\TestUnits\obj\Release\TestUnits.dll
+C:\Users\pbazan\documents\visual studio 2010\Projects\TestUnits\TestUnits\obj\Release\TestUnits.pdb
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\bin\Release\Rhino.Mocks.dll
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\bin\Release\SuperCalculator.dll
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\bin\Release\SuperCalculator.pdb
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\TestUnits\bin\Release\Rhino.Mocks.xml

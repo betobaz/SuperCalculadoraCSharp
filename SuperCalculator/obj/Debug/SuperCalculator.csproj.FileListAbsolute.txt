@@ -1,0 +1,5 @@
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\SuperCalculator\bin\Debug\SuperCalculator.dll
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\SuperCalculator\bin\Debug\SuperCalculator.pdb
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\SuperCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\SuperCalculator\obj\Debug\SuperCalculator.dll
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\SuperCalculator\obj\Debug\SuperCalculator.pdb

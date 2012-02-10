@@ -1,0 +1,11 @@
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\IntegrationTests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\IntegrationTests\bin\Release\IntegrationTests.dll
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\IntegrationTests\bin\Release\IntegrationTests.pdb
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\IntegrationTests\bin\Release\nunit.framework.dll
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\IntegrationTests\bin\Release\Rhino.Mocks.dll
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\IntegrationTests\bin\Release\SuperCalculator.dll
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\IntegrationTests\bin\Release\SuperCalculator.pdb
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\IntegrationTests\bin\Release\nunit.framework.xml
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\IntegrationTests\bin\Release\Rhino.Mocks.xml
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\IntegrationTests\obj\Release\IntegrationTests.dll
+C:\Users\pbazan\Documents\Visual Studio 2010\Projects\TestUnits\IntegrationTests\obj\Release\IntegrationTests.pdb

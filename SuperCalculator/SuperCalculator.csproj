@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{95CF2198-5511-4324-B436-B7868305FFDE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TestUnit</RootNamespace>
+    <AssemblyName>SuperCalculator</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddOperator.cs" />
+    <Compile Include="BasicCalculator.cs" />
+    <Compile Include="CalcProxy.cs" />
+    <Compile Include="Calculator.cs" />
+    <Compile Include="CalculatorProxy.cs" />
+    <Compile Include="DataFile.cs" />
+    <Compile Include="Delegates.cs" />
+    <Compile Include="DivideOperator.cs" />
+    <Compile Include="ExpressionBuilder.cs" />
+    <Compile Include="ExpressionFixer.cs" />
+    <Compile Include="FileHandler.cs" />
+    <Compile Include="MathExpression.cs" />
+    <Compile Include="MathNumber.cs" />
+    <Compile Include="MathRegex.cs" />
+    <Compile Include="Lexer.cs" />
+    <Compile Include="LimitsValidator.cs" />
+    <Compile Include="MathLexer.cs" />
+    <Compile Include="MathOperator.cs" />
+    <Compile Include="MathParser.cs" />
+    <Compile Include="MathToken.cs" />
+    <Compile Include="MultiplyOperator.cs" />
+    <Compile Include="OperatorFactory.cs" />
+    <Compile Include="Precedence.cs" />
+    <Compile Include="Resolver.cs" />
+    <Compile Include="SingleBinaryOperation.cs" />
+    <Compile Include="SubstractOperator.cs" />
+    <Compile Include="TokenProcedence.cs" />
+    <Compile Include="UserFile.cs" />
+    <Compile Include="UserFileHandler.cs" />
+    <Compile Include="UserStorageManager.cs" />
+    <Compile Include="Validator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
